@@ -43,3 +43,6 @@ WHEN I click on the logout option in the navigation<br>
 THEN I am signed out of the site<br>
 WHEN I am idle on the site for more than a set time<br>
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments<br>
+
+![14-mvc-homework-demo-01](https://user-images.githubusercontent.com/77178392/126728984-49ba847c-c4c1-4b65-8b48-c6d9e4cb397d.gif)
+
